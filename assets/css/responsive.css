@@ -1,17 +1,17 @@
 @media only screen and (max-width: 425px) {    
-    .content-header {
-        margin: 0;
-        margin-left: -15px;
-        position: relative;
-        background-color: #ffffffa4;
-        width: 100px;
-        height: 65vh;
-        min-width: 110%;
-        min-height: max-content;
-        border-radius: 5px;
-        -webkit-box-shadow: 0 0 50px 0 rgb(0 0 0 / 74%);
-        box-shadow: 0 0 10px 0 rgb(0 0 0 / 74%);
-    }
+.content-header {
+    margin: 0;
+    margin-left: -15px;
+    position: relative;
+    background-color: #ffffffa4;
+    width: 100px;
+    height: 75vh;
+    min-width: 110%;
+    min-height: max-content;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 0 50px 0 rgb(0 0 0 / 74%);
+    box-shadow: 0 0 10px 0 rgb(0 0 0 / 74%);
+}
     .content-fooer {
         margin: 0;
         margin-left: -15px;
@@ -26,32 +26,32 @@
         -webkit-box-shadow: 0 0 50px 0 rgb(0 0 0 / 74%);
         box-shadow: 0 0 10px 0 rgb(0 0 0 / 74%);
     }
-    .grid-rows-0 {
-        margin: auto;
-        margin-left: 1%;
-        padding: 15px 30px;
-        font-size: 20px;
-        font-family: "Lobster";
-        font-weight: bold;
-    }
-    .grid-rows-1 {
-        margin: auto;
-        margin-top: -20px;
-        margin-left: 1%;
-        padding: 15px 32px;
-        font-size: 15px;
-        font-family: "Roboto";
-        font-weight: bold;
-    }
-    .grid-rows-2 {
-        margin: auto;
-        margin-top: -20px;
-        margin-left: 1%;
-        padding: 2px 25px;
-        font-size: 15px;
-        font-family: "Roboto";
-        font-weight: bold;
-    }
+.grid-rows-0 {
+    margin: auto;
+    margin-left: 1%;
+    padding: 15px 30px;
+    font-size: 19px;
+    font-family: "Lobster";
+    font-weight: bold;
+}
+.grid-rows-1 {
+    margin: auto;
+    margin-top: -20px;
+    margin-left: 1%;
+    padding: 15px 27px;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.grid-rows-2 {
+    margin: auto;
+    margin-top: -20px;
+    margin-left: 1%;
+    padding: 2px 19px;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
     .column-4 {
         padding: 20px 20px;
         position: relative;
@@ -80,18 +80,18 @@
         font-family: "Lobster";
         font-weight: bold;
     }
-    .column-2 {
-        margin: 0;
-        position: relative;
-        margin-top: 40px;
-        display: grid;
-        grid-template-columns: auto auto auto;
-        width: 50px;
-        height: 10vh;
-        min-width: 100%;
-        align-content: stretch;
-        justify-content: start;
-    }
+.column-2 {
+    margin: 0;
+    position: relative;
+    margin-top: 94px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    width: 50px;
+    height: 10vh;
+    min-width: 100%;
+    align-content: stretch;
+    justify-content: start;
+}
     .column-5 {
         margin: 0;
         position: relative;
