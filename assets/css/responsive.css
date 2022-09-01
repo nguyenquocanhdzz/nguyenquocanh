@@ -85,7 +85,8 @@
         position: relative;
         margin-top: 94px;
         display: grid;
-        grid-template-columns: auto auto auto;
+        padding: 5px;
+        grid-template-columns: auto auto;
         width: 50px;
         height: 10vh;
         min-width: 100%;
