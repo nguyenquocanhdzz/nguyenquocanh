@@ -83,7 +83,7 @@
     .column-2 {
         margin: 0;
         position: relative;
-        margin-top: 94px;
+        margin-top: 40px;
         display: grid;
         padding: 5px;
         grid-template-columns: auto auto;
